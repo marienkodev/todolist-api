@@ -1,14 +1,16 @@
-REST API do tworzenia TODO lists
-Opis projektu
+# REST API do tworzenia TODO lists
+
+**Opis projektu**
+
 todolist-api to lekka aplikacja backendowa typu REST API, stworzona do zarządzania zadaniami (To-Do) – idealna jako baza do nauki pracy z Node.js, Express oraz relacyjną bazą danych PostgreSQL.
 
-Główne funkcje:
+**Główne funkcje:**
 
 - Tworzenie nowych zadań
 - Odczyt wszystkich zadań lub pojedynczego zadania
 - Usuwanie zadań
 
-Technologie:
+**Technologie:**
 
 - Node.js + Express – serwer API
 - PostgreSQL – baza danych do przechowywania zadań
